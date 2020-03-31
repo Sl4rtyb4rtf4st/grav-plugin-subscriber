@@ -45,3 +45,15 @@ es:
     MSG_UNSUBSCRIBE_THANKYOU: "Gracias por tu compañía, lamentamos que te vayas. Hemos dado de baja tu email de nuestra lista."
     MSG_ERROR_NOACTION: "Hemos encontrado un error recibiendo la información y hemos anulado la acción."
     MSG_ERROR_NOMAIL: "La dirección de email no es válida. Por favor revísala e inténtalo de nuevo. Hemos anulado la acción."
+
+nl:
+  PLUGIN_SUBSCRIBER:
+    EMAIL_SUBJECT: "[subscriber] - mail notificatie"
+    EMAIL_CONTENT_TEASER: "U ontvangt dit bericht als melding voor een in- of uitschrijvingsactie vanuit de website."
+    EMAIL_CONTENT_SITE: "Website"
+    EMAIL_CONTENT_ACTION: "Actie"
+    EMAIL_CONTENT_ADDRESS: "Mail adres"
+    MSG_SUBSCRIBE_THANKYOU: "Dank u, uw mail adres is toegevoegd aan onze lijst."
+    MSG_UNSUBSCRIBE_THANKYOU: "Dank u, uw mail adres is verwijdert van onze lijst."
+    MSG_ERROR_NOACTION: "Fout tijdens het versturen van de informatie. Actie afgebroken."
+    MSG_ERROR_NOMAIL: "Er zit een fout in het opgegeven mail adres. Gelieve een correct adres te sturen. Actie afgebroken."
